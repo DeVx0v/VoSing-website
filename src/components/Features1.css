@@ -1,0 +1,9 @@
+.features1 {
+  background-image: url("../images/Logo1.jpg");
+  color: white;
+  text-align: center;
+  background-size: 100% 100%; /* Stretches both width and height */
+  background-repeat: no-repeat; /* Prevents repeating */
+  background-position: center; /* Centers the image */
+  padding: 50vh;
+}
